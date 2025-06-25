@@ -1,6 +1,6 @@
-# 📝 ToDo List App
+# 📝 TODOLIST App
 
-A modern and responsive ToDo List application to manage your tasks efficiently. Built with **React.js**, styled using **Tailwind CSS** and **DaisyUI**, and backed by a **PostgreSQL API** for persistent storage.
+A modern and responsive ToDoList application to manage your tasks efficiently. Built with **React.js**, styled using **Tailwind CSS** and **DaisyUI**, and backed by a **PostgreSQL API** for persistent storage.
 
 ---
 
@@ -31,10 +31,9 @@ A modern and responsive ToDo List application to manage your tasks efficiently. 
 ![Homepage](./public/assets/screenshots/homepage.png)
 ![Add Todo](./public/assets/screenshots/create-todo.png)
 ![About Page](./public/assets/screenshots/about.png)
-```
+
 
 📂 Project Structure
-
 
 TODOLIST/
 ├── frontend/
