@@ -59,5 +59,8 @@ npm install
 npm run dev
 ```
 
+## 🌐 Deployment
+This project will be deployed soon to a live URL for public access. Stay tuned!
+
 
 
