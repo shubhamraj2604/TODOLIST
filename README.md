@@ -34,6 +34,8 @@ A modern and responsive ToDo List application to manage your tasks efficiently. 
 ```
 
 📂 Project Structure
+
+
 TODOLIST/
 ├── frontend/
 │   ├── public/
@@ -43,10 +45,11 @@ TODOLIST/
 │   │           ├── create-todo.png
 │   │           └── about.png
 │   ├── src/
-│   ├── App.jsx
-│   └── main.jsx
+│   │   ├── App.jsx
+│   │   └── main.jsx
 ├── backend/ (optional)
 └── README.md
+
 
 
 
