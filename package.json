@@ -1,0 +1,23 @@
+{
+  "name": "to_do-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+     "dev":"nodemon backend/server.js",
+     "build":"npm install && npm install --prefix frontend && npm run build --prefix frontend",
+     "start" : "node backend/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "helmet": "^8.1.0",
+    "morgan": "^1.10.0",
+    "neon": "^2.0.0"
+  }
+}
