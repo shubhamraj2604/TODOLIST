@@ -28,13 +28,13 @@ A modern and responsive ToDoList application to manage your tasks efficiently. B
 `frontend/public/assets/screenshots/`
 
 ```markdown
-![Homepage](./public/assets/screenshots/homepage.png)
-![Add Todo](./public/assets/screenshots/create-todo.png)
-![About Page](./public/assets/screenshots/about.png)
+![Homepage](./homepage.png)
+![Add Todo](./todopage.png)
+![About Page](./about.png)
+```
 
-
-📂 Project Structure
-
+## 📂 Project Structure
+```
 TODOLIST/
 ├── frontend/
 │   ├── public/
@@ -48,7 +48,21 @@ TODOLIST/
 │   │   └── main.jsx
 ├── backend/ (optional)
 └── README.md
-
+```
+## 🚀 Getting Started
+ 1. Clone the Repository
+ ```
+git clone https://github.com/shubhamraj2604/TODOLIST.git
+cd TODOLIST/frontend
+```
+2. Install Dependencies
+```
+npm install
+```
+3. Run the App
+```
+npm run dev
+```
 
 
 
