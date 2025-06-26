@@ -28,21 +28,6 @@ A modern and responsive ToDoList application to manage your tasks efficiently. B
 ![Todo Page](./todopage.png)
 ![About Page](./about.png)
 
-## 📂 Project Structure
-```
-TODOLIST/
-├── frontend/
-│   ├── public/
-│   │   └── assets/
-│   │       └── screenshots/
-│   │           ├── homepage.png
-│   │           ├── create-todo.png
-│   │           └── about.png
-│   ├── src/
-│   │   ├── App.jsx
-│   │   └── main.jsx
-├── backend/ (optional)
-└── README.md
 ```
 ## 🚀 Getting Started
  1. Clone the Repository
