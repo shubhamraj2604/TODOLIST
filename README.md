@@ -46,5 +46,15 @@ npm run dev
 ## 🌐 Deployment
 This project will be deployed soon to a live URL for public access. Stay tuned!
 
+We are also working on implementing a private TODO list for each user, which will include:
+
+## 🚀 Upcoming Features
+
+- 🔐 User authentication system
+- 🗂️ Private TODOs per user
+- 📦 Deployment on production
+
+
+Stay tuned for updates on this feature!
 
 
